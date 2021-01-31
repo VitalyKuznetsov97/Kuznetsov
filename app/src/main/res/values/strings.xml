@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TinkoffSchoolApp</string>
+    <string name="previous_post">PREVIOUS POST</string>
+    <string name="next_post">NEXT POST</string>
+    <string name="latest">LATEST</string>
+    <string name="hot">HOT</string>
+    <string name="top">TOP</string>
 </resources>
