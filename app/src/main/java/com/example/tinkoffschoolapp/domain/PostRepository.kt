@@ -1,6 +1,6 @@
 package com.example.tinkoffschoolapp.domain.data
 
-import com.example.tinkoffschoolapp.domain.data.models.Post
+import com.example.tinkoffschoolapp.domain.models.Post
 import java.lang.Exception
 
 interface PostRepository {

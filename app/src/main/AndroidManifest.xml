@@ -14,7 +14,7 @@
         android:theme="@style/Theme.TinkoffSchoolApp"
         android:usesCleartextTraffic="true"
         tools:ignore="AllowBackup">
-        <activity android:name=".MainActivity">
+        <activity android:name=".domain.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
